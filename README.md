@@ -1,4 +1,4 @@
-cctv casr for rpi
+cctv box for rpi
 ===========================================
 
 
